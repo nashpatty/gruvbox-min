@@ -8,4 +8,7 @@
 
 -   Modified background to use medium hardness from gruvbox palette.
 -   Modified colors to increase contrast against background.
--   Added icon for extension.
+
+## [1.0.1] 2023-12-05
+
+-   Added icon.
