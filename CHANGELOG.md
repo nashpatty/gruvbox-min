@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "gruvbox-min" extension will be documented in this file.
+## [0.0.1] 2023-12-04
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+-   Initial release
 
-## [Unreleased]
+## [1.0.0] 2023-12-05
 
-- Initial release
+-   Modified background to use medium hardness from gruvbox palette.
+-   Modified colors to increase contrast against background.
