@@ -1,7 +1,7 @@
 {
     "name": "Gruvbox Min",
     "colors": {
-        "editor.background": "#1d2021",
+        "editor.background": "#282828",
         "editor.foreground": "#ebdbb2",
         "editor.selectionBackground": "#21428380",
         "editor.lineHighlightBackground": "#323232",
@@ -35,7 +35,7 @@
         "terminal.ansiRed": "#fb4934",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiYellow": "#fabd2f",
-        "terminal.background": "#1d2021",
+        "terminal.background": "#282828",
         "terminal.foreground": "#ebdbb2",
 
         // base dark modern colors for application window
