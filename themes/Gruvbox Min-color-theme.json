@@ -350,7 +350,7 @@
             "name": "other properties",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#BABABA"
+                "foreground": "#d5c4a1"
             }
         },
         {
