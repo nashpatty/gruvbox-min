@@ -17,3 +17,8 @@
 
 -   Restored some colors (scheme was starting to look like Ayu).
 -   Overhaul of a lot of (unnecessary) editor colors to restore vscode defaults.
+
+## [1.3.0] 2023-12-07
+
+-   Changed background color to hard variation of gruvbox dark.
+-   Changed window colors to match the modern vscode dark scheme.
