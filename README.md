@@ -9,6 +9,7 @@ Modified Gruvbox colors with minimal token highlighting for less visual clutter 
 -   numbers and other built in constants
 -   special variables and properties
 -   keywords, some commas, terminators, and other important punctuation
+-   only italicizes comments
 
 ## Image
 
