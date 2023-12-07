@@ -21,6 +21,11 @@
         "label": "Gruvbox Min",
         "uiTheme": "vs-dark",
         "path": "./themes/Gruvbox Min-color-theme.json"
+      },
+      {
+        "label": "Gruvbox Min Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gruvbox Min Contrast-color-theme.json"
       }
     ]
   }
