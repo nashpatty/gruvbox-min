@@ -22,3 +22,7 @@
 
 -   Changed background color to hard variation of gruvbox dark.
 -   Changed window colors to match the modern vscode dark scheme.
+
+## [1.4.0] 2023-12-07
+
+-   Added low contrast and high contrast variants.
