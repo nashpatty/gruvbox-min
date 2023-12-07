@@ -35,7 +35,7 @@
         "terminal.ansiRed": "#fb4934",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiYellow": "#fabd2f",
-        "terminal.background": "#282828",
+        "terminal.background": "#1d2021",
         "terminal.foreground": "#ebdbb2",
 
         // base dark modern colors for application window
