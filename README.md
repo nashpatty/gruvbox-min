@@ -11,6 +11,8 @@ Modified Gruvbox colors with minimal token highlighting for less visual clutter 
 -   keywords, some commas, terminators, and other important punctuation
 -   only italicizes comments
 
+Syntax highlighting borrowed from [Alabaster theme](https://github.com/tonsky/vscode-theme-alabaster).
+
 ## Image
 
 ![Alt text](/images/js_sample.png?raw=true)
