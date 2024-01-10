@@ -185,7 +185,8 @@
                 "storage.modifier.java",
                 "punctuation.terminator",
                 "variable.language.this",
-                "keyword.other"
+                "keyword.other",
+                "support.constant.java-properties"
             ],
             "settings": {
                 "foreground": "#cc7832"
@@ -197,7 +198,8 @@
                 "string",
                 "string.regexp",
                 "constant.other.symbol",
-                "punctuation.definition.string"
+                "punctuation.definition.string",
+                "string.unquoted.java-properties"
             ],
             "settings": {
                 "foreground": "#b8bb26"
@@ -234,7 +236,7 @@
             "name": "attributes",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#fabd2f"
+                "foreground": "#bababa"
             }
         },
         {
@@ -242,10 +244,18 @@
             "scope": [
                 "entity.name",
                 "support.type.property-name.json",
+                "punctuation.support.type.property-name",
                 "string.unquoted"
             ],
             "settings": {
                 "foreground": "#83a598"
+            }
+        },
+        {
+            "name": "tags",
+            "scope": "entity.name.tag,punctuation.definition.tag",
+            "settings": {
+                "foreground": "#cc7832"
             }
         },
         {
