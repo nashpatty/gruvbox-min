@@ -15,6 +15,11 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark"
+  ],
   "contributes": {
     "themes": [
       {
