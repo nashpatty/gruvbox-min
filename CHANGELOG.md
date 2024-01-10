@@ -26,3 +26,8 @@
 ## [1.4.0] 2023-12-07
 
 -   Added low contrast and high contrast variants.
+
+## [1.5.9] 2024-01-10
+
+-   Changed color of comments to be more visually disctinct.
+-   Minified color scheme to be closer in style to Alabaster color scheme.
