@@ -36,3 +36,7 @@
 
 -   Link default template into contrast variant to avoid duplicated work.
 -   Fix token color of units for constant values (px, em, percent, hash symbol etc.)
+
+## [1.6.1] 2024-01-11
+
+-   Fixed typo
