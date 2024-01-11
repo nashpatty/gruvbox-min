@@ -219,7 +219,9 @@
                 "constant.character",
                 "constant.keyword",
                 "constant",
-                "support.constant"
+                "support.constant",
+                "punctuation.definition.constant",
+                "keyword.other.unit`"
             ],
             "settings": {
                 "foreground": "#d38695"
