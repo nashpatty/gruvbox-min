@@ -31,3 +31,8 @@
 
 -   Changed color of comments to be more visually disctinct.
 -   Minified color scheme to be closer in style to Alabaster color scheme.
+
+## [1.6.0] 2024-01-11
+
+-   Link default template into contrast variant to avoid duplicated work.
+-   Fix token color of units for constant values (px, em, percent, hash symbol etc.)
