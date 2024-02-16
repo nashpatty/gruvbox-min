@@ -41,7 +41,7 @@
 
 -   Fixed typo
 
-## [1.6.2] 2024-02-16
+## [1.7.0] 2024-02-16
 
 -   Update selection background
 -   Update word highlight background
