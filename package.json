@@ -3,7 +3,7 @@
   "displayName": "Gruvbox Min",
   "description": "Gruvbox colors with minimal highlighting for clarity.",
   "icon": "images/gruvbox-min-icon.png",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "publisher": "nashpatty",
   "repository": {
     "type": "git",
