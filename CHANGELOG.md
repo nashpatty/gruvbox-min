@@ -40,3 +40,12 @@
 ## [1.6.1] 2024-01-11
 
 -   Fixed typo
+
+## [1.6.2] 2024-02-16
+
+-   Update selection background
+-   Update word highlight background
+-   Update find and match highlight
+-   Changed hex of green, cyan, red, and yellow and magenta
+-   Changed functions to blue color
+-   Changed tokens to yellow color
