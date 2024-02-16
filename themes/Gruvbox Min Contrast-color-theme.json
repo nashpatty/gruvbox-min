@@ -8,7 +8,9 @@
         "editorIndentGuide.background1": "#50494566",
         "editorIndentGuide.activeBackground1": "#504945",
         "editorRuler.foreground": "#50494590",
-        "editor.selectionBackground": "#21428399",
+        "editor.selectionBackground": "#214283B3",
+        "editor.wordHighlightBackground": "#32593d4d",
+        "editor.wordHighlightStrongBackground": "#532b2e4d",
         "editor.lineHighlightBackground": "#282828",
 
         // terminal colors
